@@ -1,4 +1,8 @@
-### study-of-basic-gates
+**NAME: TEJASHREE SS**
+
+**REG NO: 24900167**
+
+## EXPERIMENT 1: Study of logic gates
 
 **AIM:** 
 
@@ -61,19 +65,15 @@ Y= A⊕B
 
 5.	For different input combinations generate the timing diagram.
 
-
-**PROGRAM**
-
-Program for logic gates and verify its truth table in quartus using Verilog programming
-
- Developed by: RegisterNumber: 
+**PROGRAM** ![Screenshot_2024-10-30_193833 1](https://github.com/user-attachments/assets/20904463-8731-40d7-98ea-e38f2077a2f4)
  
-**Logic symbol & Truthtable**
+## LOGIC GATE AND TRUTH TABLE ![logic gate](https://github.com/user-attachments/assets/5ca96652-1e77-46f3-ad2c-f95563df7f59)
 
-**RTL realization Output:** 
+## RTL OUTPUT ![Screenshot 2024-10-30 193516 (1)](https://github.com/user-attachments/assets/a1e46f0e-350b-45f9-9556-bf2ce45394f2)
 
-**RTL**
+## OUTPUT WAVEFORM ![waveform](https://github.com/user-attachments/assets/5d219217-df31-4872-a694-21d005a54ea5)
 
-**Result:**
+## RESULT 
+studying and verifying the truth table of logic gates in Quartus II using verilog programming is proved
 
 
