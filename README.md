@@ -73,6 +73,6 @@ Y= A⊕B
 ## OUTPUT WAVEFORM ![waveform](https://github.com/user-attachments/assets/5d219217-df31-4872-a694-21d005a54ea5)
 
 ## RESULT 
-Studying and verifying the truth table of logic gates in Quartus II using verilog programming is proved
+Studied and verified the truth table of logic gates in Quartus II using verilog programming successfully
 
 
